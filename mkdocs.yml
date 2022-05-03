@@ -1,0 +1,11 @@
+site_name: Techdocs example with macros
+docs_dir: docs
+plugins:
+  - techdocs-core
+  - macros
+extra:
+  hello: '**Hello**'
+  goodbye: '*Goodbye*'
+
+nav:
+  - '1. Introduction': index.md
