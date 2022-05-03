@@ -5,7 +5,6 @@ metadata:
   description: 
   annotations:
     backstage.io/techdocs-ref: 'dir:./'
-    github.com/project-slug: emccullagh/techdocs-example
 spec:
   type: documentation
   lifecycle: experimental
